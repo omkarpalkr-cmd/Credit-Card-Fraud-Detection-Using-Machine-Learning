@@ -1,6 +1,8 @@
 # Credit-Card-Fraud-Detection-Using-Machine-Learning
 Developing predictive models to detect fraudulent transactions by analyzing customer spending behavior, reducing financial risk, and enhancing transaction security.
 
+## DATA SET LINK KAGGLE
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ## Business Problem
 Credit card fraud is a major challenge for financial institutions, leading to significant monetary losses and reduced customer trust. Traditional rule‑based systems often fail to adapt to evolving fraud patterns, making it essential to apply machine learning techniques for proactive detection.
